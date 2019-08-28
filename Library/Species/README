@@ -1,0 +1,1 @@
+Contains all definitions for the Species and Mixture classes. SpeciesAir is a special class specifically for air due to the requirement of viscosity and thermal conductivity.
