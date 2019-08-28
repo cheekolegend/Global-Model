@@ -1,0 +1,1 @@
+Contains functions required to compute radiation to the pool surface assuming the flame is homogeneous and isothermal. Emissivity of gases are calculated based on Leckner (1972), "Spectral and total emissivity of water vapour and carbon dioxide".
