@@ -1,0 +1,1 @@
+Contains functions required to calculate mixture thermodynamics and VLE. The mixture combinations need to be specified in getWilsonCoeffs.m and getWilsonVol.m
